@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\bin\Debug\CarshopConsoleApp.exe.config
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\bin\Debug\CarshopConsoleApp.exe
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\bin\Debug\CarshopConsoleApp.pdb
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\bin\Debug\CarClassLibrary.dll
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\bin\Debug\CarClassLibrary.pdb
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\obj\Debug\CarshopConsoleApp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\obj\Debug\CarshopConsoleApp.csproj.CopyComplete
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\obj\Debug\CarshopConsoleApp.exe
+C:\Users\USER\source\repos\CarClassLibrary\CarshopConsoleApp\obj\Debug\CarshopConsoleApp.pdb
